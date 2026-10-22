@@ -8,7 +8,7 @@ I'm in Unlocking Cyber ON1, I'm a cyber security major, I work at a university, 
 ![Networking](https://img.shields.io/badge/Networking-5391FE?logo=powershell&logoColor=green)
 
 ## 🎉 Interests
-![Reverse Enginnering](https://img.shields.io/badge/Reverse%Enginnering-FF6F00?logo=openai&logoColor=white)
+![Reverse Enginnering](https://img.shields.io/badge/ReverseEnginnering-FF6F00?logo=openai&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=red)
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Tempest7833)
