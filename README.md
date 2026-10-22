@@ -1,6 +1,6 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Michael
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I'm in Unlocking Cyber ON1, I'm a cyber security major, I work at a university, and I do jujitsu
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Active Directory](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
