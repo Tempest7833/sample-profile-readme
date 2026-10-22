@@ -3,9 +3,9 @@
 I'm in Unlocking Cyber ON1, I'm a cyber security major, I work at a university, and I do jujitsu
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Active Directory](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![WireShark](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-![Networking](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=green)
+![Active Directory](https://img.shields.io/badge/ActiveDirectory-F05032?logo=git&logoColor=white)
+![WireShark](https://img.shields.io/badge/WireShark-5391FE?logo=powershell&logoColor=white)
+![Networking](https://img.shields.io/badge/Metworking-5391FE?logo=powershell&logoColor=green)
 
 ## 🎉 Interests
 ![Reverse Enginnering](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
